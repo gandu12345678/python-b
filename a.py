@@ -1,0 +1,30 @@
+#dictionary
+person={
+    'name':'ram',
+    'age':2,
+    'gender':'male',
+    'áddress':'kathmandu',
+    'phone':989696969696,
+    'hobbies':['singing','dancing'],
+    'friends':[
+        {
+        'name':'shyam',
+    'age':2,
+    'gender':'male',
+    'áddress':'kathmandu',
+    'phone':989696969696,
+    'hobbies':['singing','dancing'],
+        },
+        {
+            'name':'hari',
+    'age':2,
+    'gender':'male',
+    'áddress':'kathmandu',
+    'phone':989696969696,
+    'hobbies':['singing','dancing'],
+        }
+    ]
+    
+}
+
+print(person['friends'][0]['hobbies'][0])

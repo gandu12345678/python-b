@@ -1,0 +1,25 @@
+create gitignore file
+
+git init===hamro project ma git lai install/setup
+
+
+sabai file git bhitra add garcham:
+git add .
+
+check that status of tracked or untracked files
+git status
+
+sabai kura haru confirm bhayo bhane
+git commit -m "first commit"
+
+to create new branch
+git checkout -b <branchname>
+
+to change branch or switch branch
+git checkout <branchname>
+
+to list all branches
+git branch
+
+
+login feature
